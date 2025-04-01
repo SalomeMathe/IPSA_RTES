@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 void main() {
-  printf("Hello a tous les amis!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+  printf("Heok boomerrrrrrrrrrrrrrrrrrrrrllo a tous les amis!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 }
 
